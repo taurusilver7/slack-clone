@@ -1,4 +1,32 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+## Slack Clone
+
+> A react-redux powered real-time chat appliation styled with styled-componets hosted on firebase.
+
+## About the application
+
+> Slack is a proprietary business communication platform developed by American software company Slack Technologies. Slack offers many IRC-style features, including persistent chat rooms organized by topic, private groups, and direct messaging.
+
+## Components
+
+- Header
+- Sidebar(SidebarOption)
+- Chat (ChatInput & Message)
+- Login
+
+## Dependencies
+
+- react-redux
+- redux-js
+- styled-components
+- react-router
+- react-firebase-hooks
+- react-spinkit
+- firebase/ firebase-tools
+
+## Stock
+
+[sample-user](https://i.pinimg.com/originals/5e/a0/76/5ea07679d8287856c1ab14ef393766c2.jpg)
+[app-logo](https://cdn.mos.cms.futurecdn.net/SDDw7CnuoUGax6x9mTo7dd.jpg)
 
 ## Available Scripts
 
