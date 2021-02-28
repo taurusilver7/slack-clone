@@ -2,6 +2,10 @@
 
 > A react-redux powered real-time chat appliation styled with styled-componets hosted on firebase.
 
+<p align='center'>
+    <img src='./slack.png' width='300' />
+</p>
+
 ## About the application
 
 > Slack is a proprietary business communication platform developed by American software company Slack Technologies. Slack offers many IRC-style features, including persistent chat rooms organized by topic, private groups, and direct messaging.
